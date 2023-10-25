@@ -1,0 +1,4 @@
+1. Modify trading_system.py to implement a wallet class that keeps track of held stock, held usd, and all transactions for that wallet
+2. Implement buy and sell functions for the wallet class to be used by future algorithms that updates the wallet class variables. 
+These functions should also perform input validation to make sure no algorithm is cheating (selling more stock than owns, buying more than can afford, etc.)
+3. Test each aspect of the wallet class and its functions
