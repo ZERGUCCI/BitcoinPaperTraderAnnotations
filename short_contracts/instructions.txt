@@ -1,0 +1,7 @@
+1. Modify trading_system.py and extend the Wallet class with a new function called short. This function models selling borrowed Bitcoin. It 
+takes three parameters: timestamp, price and number(of Bitcoin to short).
+2. In the short function, calculate cash and short position changes, validate inputs, and record short sale transactions.
+3. Add another function to Wallet class named close_short. This function models buying back borrowed Bitcoin to close a short position. 
+It also takes in timestamp, price, and number.
+4. Within close_short, calculate cash and short position changes, validate inputs, and record transactions of short position closures.
+5. Test short and close_short with different scenarios to ensure they operate properly.

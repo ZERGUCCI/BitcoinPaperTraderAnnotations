@@ -1,0 +1,7 @@
+1. Modify trading_system.py and create minute to ohlc (Open High Low Close) function that takes in normal price data
+and returns OHLC candles.
+2. Call minute to ohlc function in user_settings function to produce OHLC adjusted dataset based on user input
+3. Create a TechnicalIndicators class to store the methods and calculations for indicators.
+4. Add Heiken Ashi candle indicators to the class in the form of a static method that takes in the new data point
+as well as the previous candle and returns the new candle as a dictionary object
+5. Test the method to make sure the calculations are correct

@@ -1,0 +1,8 @@
+[
+    {
+        "repo_url": "https://github.com/ZERGUCCI/BitcoinPaperTrader",
+        "objective": "Add heiken ashi technical indicator",
+        "parent_commit": "95bba0b9f72e9a19b82176be8eba3709f06755f3",
+        "test_script": "heiken_ashi_indicators/test_file.json"
+    }
+]
