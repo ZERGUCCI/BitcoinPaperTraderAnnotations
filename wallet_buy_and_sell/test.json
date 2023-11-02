@@ -3,6 +3,6 @@
         "repo_url": "https://github.com/ZERGUCCI/BitcoinPaperTrader",
         "objective": "Create a Wallet with buy and sell functionality",
         "parent_commit": "3ae437b",
-        "test_script": "wallet_buy_and_sell/test_file.json"
+        "test_script": "wallet_buy_and_sell/test_file.py"
     }
 ]

@@ -1,0 +1,6 @@
+1. Modify trading_system.py and create a new Python class named SimpleMovingAverageStrategy, this class will contain our first trading algorithm.
+2. The class is initilized with three parameters - wallet, data and window_size. 'wallet' refers to the Wallet 
+instance on which trades will be executed, 'data' corresponds to the historical data that the algorithm will run on, 'window_size' is the size of the sliding window of data points to average
+3. Create a new method inside this class named "execute". This is where the main logic of the trading algorithm will be - calculating the moving average and making buy/sell decisions based on it.
+4. In the "execute" method, iterate through the data. If bitcoin price is below moving average, execute a long (buy) operation, if it is above moving average, close any open long position and execute a short operation.
+5. Run the algorithm on some test data and make sure it works correctly.

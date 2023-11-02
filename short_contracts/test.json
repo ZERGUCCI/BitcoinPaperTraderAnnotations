@@ -3,6 +3,6 @@
         "repo_url": "https://github.com/ZERGUCCI/BitcoinPaperTrader",
         "objective": "Added shorting capabilities",
         "parent_commit": "aa0dece3caf57f22cda0120f19d164ed95507f83",
-        "test_script": "short_contracts/test_file.json"
+        "test_script": "short_contracts/test_file.py"
     }
 ]

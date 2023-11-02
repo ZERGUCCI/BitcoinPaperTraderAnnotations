@@ -1,0 +1,8 @@
+[
+    {
+        "repo_url": "https://github.com/ZERGUCCI/BitcoinPaperTrader",
+        "objective": "Implemented example simple moving average algorithm",
+        "parent_commit": "388f8cec7c4bf7b96cc685a08563cb7885d198ca",
+        "test_script": "SMA_algorithm/test_file.py"
+    }
+]
