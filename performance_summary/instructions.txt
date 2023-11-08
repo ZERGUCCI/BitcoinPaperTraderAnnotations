@@ -1,0 +1,7 @@
+1. `Modify Wallet.py by adding new methods to calculate total profits, percentage of trades that were profitable, total closed trades, and profit factor post execution. Each of these statistics can be derived from transaction history without attaching additional information to individual transactions.
+2. Create a method, totalProfits(), that takes in the initial wallet amount and the final wallet amount and returns the net profit and profit percentage
+3. Create a method, percentProfitable(), that calculates the number of profitable trades divided by total number of trades.
+4. Write a method, totalClosedTrades(), which calculates the total number of closed trades. A closed trade can be considered when there is a sell operation for the purchased asset or a short operation closed.
+5. For the profit factor calculation, create a method profitFactor(). This method will calculate the ratio of total profit made by all profitable trades to the total loss made by all unprofitable trades.
+6. After running the simulation in the main method, call these summary statistics and print them to console.
+7. Write test cases for each of the new summary methods
