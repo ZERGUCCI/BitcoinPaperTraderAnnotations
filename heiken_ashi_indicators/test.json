@@ -1,8 +1,8 @@
 [
     {
         "repo_url": "https://github.com/ZERGUCCI/BitcoinPaperTrader",
-        "objective": "Add heiken ashi technical indicator",
-        "parent_commit": "95bba0b9f72e9a19b82176be8eba3709f06755f3",
+        "objective": "Add technical indicators class and create a heiken ashi method that takes the previous and current OHLC candles and calculates the corresponding heiken ashi candle of the two",
+        "parent_commit": "95bba0b",
         "test_script": "heiken_ashi_indicators/test_file.py"
     }
 ]

@@ -1,8 +1,8 @@
 [
     {
         "repo_url": "https://github.com/ZERGUCCI/BitcoinPaperTrader",
-        "objective": "Implemented example simple moving average algorithm",
-        "parent_commit": "388f8cec7c4bf7b96cc685a08563cb7885d198ca",
+        "objective": "Implemented simple moving average algorithm that buys when the current price is below the moving average and sells then opens a short when its above the moving average",
+        "parent_commit": "388f8ce",
         "test_script": "SMA_algorithm/test_file.py"
     }
 ]

@@ -1,8 +1,8 @@
 [
     {
         "repo_url": "https://github.com/ZERGUCCI/BitcoinPaperTrader" ,
-        "objective": "Implement a function to change the historical data backtesting conditions based on user input",
-        "parent_commit": "5e4d95ad25bc643a2edf0a59f915d18bb9d5a03b",
+        "objective": "Implement a function to change the historical data backtesting conditions like start date, end date, and time interval based on user input",
+        "parent_commit": "5e4d95a",
         "test_script": "user_input_trade_settings/test_file.py"
     }
 ]

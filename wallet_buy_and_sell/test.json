@@ -1,7 +1,7 @@
 [
     {
         "repo_url": "https://github.com/ZERGUCCI/BitcoinPaperTrader",
-        "objective": "Create a Wallet with buy and sell functionality",
+        "objective": "Create a wallet that tracks balances of stock and cash and has buy and sell methods to be used by the trading algorithms",
         "parent_commit": "3ae437b",
         "test_script": "wallet_buy_and_sell/test_file.py"
     }

@@ -1,8 +1,8 @@
 [
     {
         "repo_url": "https://github.com/ZERGUCCI/BitcoinPaperTrader",
-        "objective": "Added simple post simulation trading performance stats",
-        "parent_commit": "TBD",
+        "objective": "Add simple post simulation trading performance stats by adding functions to calculate total profits, percent of profitable trades, total closed trades, and profit factor, to the wallet class by traversing the transactions list within the wallet",
+        "parent_commit": "eb5bb53",
         "test_script": "performance_summary/test_file.py"
     }
 ]
