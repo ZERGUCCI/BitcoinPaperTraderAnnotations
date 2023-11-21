@@ -1,0 +1,4 @@
+1. Add a new method called EMA (Exponential Moving Average) to the technical indicators class in trading_system.py.
+2. EMA is calculated by (Current Price * (2/(N+1))) + (Previous EMA * (1-(2/(N+1))))
+3. The method should take in an ohlc data points (current price), and a window size (N) and return the EMA at that data point
+4. Write test cases to check the calculations are correct

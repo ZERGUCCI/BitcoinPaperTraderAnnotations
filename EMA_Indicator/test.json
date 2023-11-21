@@ -1,0 +1,9 @@
+[
+    {
+        "id": "7.7",
+        "repo_url": "https://github.com/ZERGUCCI/BitcoinPaperTrader",
+        "objective": "Add method to calculate exponential moving average to the TechnicalIndicators class in trading_system.py. It should take in OHLC data points and a window size and return the ema at the most recent data point",
+        "parent_commit": "dc3f4a0",
+        "test_script": "test_scripts/QuantTrader-7.7-script.py"
+    }
+]

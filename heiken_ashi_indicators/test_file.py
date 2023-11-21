@@ -1,7 +1,6 @@
 import sys
 import unittest
-from datetime import datetime
-import pytz
+
 from trading_system import minute_to_ohlc, TechnicalIndicators
 
 class TestTechnicalIndicators(unittest.TestCase):
